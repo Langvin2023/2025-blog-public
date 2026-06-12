@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "Langvin’s Blog",
+		"title": "Langvin",
 		"description": "Langvin’s Blog，记录日常学习，分享技术栈。",
 		"username": "Langvin"
 	},
@@ -47,7 +47,7 @@
 			"type": "github",
 			"value": "https://github.com/Langvin2023",
 			"label": "Github",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "email",
