@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"name": "奈飞工厂",
+		"logo": "/images/share/a4e946aa330507cc.png",
+		"url": "https://www.netflixgc.com/",
+		"description": "奈飞工厂-一个致力于免费提供Netflix影剧动漫的流媒体播放平台",
+		"tags": [
+			"影视"
+		],
+		"stars": 3
+	}
+]
