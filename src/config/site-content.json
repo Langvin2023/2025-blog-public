@@ -55,6 +55,13 @@
 			"value": "1669711960@qq.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1781268863204",
+			"type": "juejin",
+			"value": "",
+			"label": "掘金",
+			"order": 2
 		}
 	],
 	"clockShowSeconds": true,
