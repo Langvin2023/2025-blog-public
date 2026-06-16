@@ -8,5 +8,15 @@
 			"影视"
 		],
 		"stars": 3
+	},
+	{
+		"name": "Lollipop",
+		"logo": "blob:https://2025-blog-public-nqwn.vercel.app/3d8d31d9-b806-420f-a211-ca4dcfa7deb4",
+		"url": "https://lollipop.plus/jobs",
+		"description": "AI面试官-7x24小时在线！",
+		"tags": [
+			"AI工具"
+		],
+		"stars": 3
 	}
 ]
